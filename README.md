@@ -1,16 +1,23 @@
-## Hi there 👋
+# Ali Motameny
 
-<!--
-**alimotamenyyy-oss/alimotamenyyy-oss** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+M.Sc. student in Computer Engineering (Computer Networks), Islamic Azad University, Parand Branch.
 
-Here are some ideas to get you started:
+## Research
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Traffic allocation to packet-corrupting links in data-center networks** (M.Sc. thesis research)
+
+Linux TCP testbeds, a packet-level simulator and pre-registered experiments, including a server in a data-center rack.
+
+Manuscript in preparation; code available on request.
+
+<div dir="rtl">
+
+## پژوهش
+
+**تخصیص ترافیک به پیوندهای دچار خرابی بسته در شبکه‌های مرکز داده** (پژوهش پایان‌نامه‌ی کارشناسی ارشد)
+
+بسترهای آزمون TCP لینوکس، شبیه‌ساز سطح بسته و آزمایش‌های پیش‌ثبت‌شده، از جمله روی سروری در رک مرکز داده.
+
+مقاله در دست آماده‌سازی است و کد در صورت درخواست در دسترس قرار می‌گیرد.
+
+</div>
